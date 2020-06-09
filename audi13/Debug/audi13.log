@@ -1,0 +1,8 @@
+﻿  main.c
+C:\Users\Кирилл\source\repos\audi13\audi13\main.c(7,21): warning C4047: функция: "LPSTR" отличается по уровням косвенного обращения от "char (*)[267]"
+C:\Users\Кирилл\source\repos\audi13\audi13\main.c(7,21): warning C4024: GetUserNameA: различные типы для формального и фактического параметров 1
+C:\Users\Кирилл\source\repos\audi13\audi13\main.c(18,26): warning C4047: функция: "LPSTR" отличается по уровням косвенного обращения от "char (*)[267]"
+C:\Users\Кирилл\source\repos\audi13\audi13\main.c(18,26): warning C4024: GetComputerNameA: различные типы для формального и фактического параметров 1
+C:\Users\Кирилл\source\repos\audi13\audi13\main.c(32,9): warning C4477: "printf": в строке форматирования "%lx" требуется аргумент типа "unsigned long", но вариативный аргумент "1" имеет тип "LPVOID"
+C:\Users\Кирилл\source\repos\audi13\audi13\main.c(33,9): warning C4477: "printf": в строке форматирования "%lx" требуется аргумент типа "unsigned long", но вариативный аргумент "1" имеет тип "LPVOID"
+  audi13.vcxproj -> C:\Users\Кирилл\source\repos\audi13\Debug\audi13.exe
